@@ -1,2 +1,2 @@
-# Wdpai_2023_tr
+# Boozin_platform_WDPAI
 Project for the subject
